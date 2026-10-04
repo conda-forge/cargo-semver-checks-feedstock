@@ -1,5 +1,5 @@
 context:
-  version: "0.50.0"
+  version: "0.51.0"
 
 package:
   name: cargo-semver-checks
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/obi1kenobi/cargo-semver-checks/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: e9291c470e7062286ac5bfc7e691d6fae894ce79e9cf5cbd5e607bfe3fc48e8a
+  sha256: 32216d934a20c41bc59763e718c990b4b03cd12a0b12206534037c8a68332bf6
 
 build:
   number: 0
